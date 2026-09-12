@@ -1,22 +1,10 @@
-- repo: pkgsrc_2026_2
+- repo: pkgsrc_2026_1
   srcname: net/xfr
   binname: xfr
   visiblename: net/xfr
-  version: 0.9.18
+  version: 0.9.4
   origversion: null
   status: outdated
-  summary: Modern network bandwidth testing with TUI
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - net
-- repo: pkgsrc_current
-  srcname: net/xfr
-  binname: xfr
-  visiblename: net/xfr
-  version: 0.10.1
-  origversion: null
-  status: newest
   summary: Modern network bandwidth testing with TUI
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -28,9 +16,9 @@
     - xfr
     - xfr-debuginfo
   visiblename: xfr
-  version: 0.9.14
-  origversion: 0.9.14-alt1
-  status: outdated
+  version: 0.10.1
+  origversion: 0.10.1-alt1
+  status: newest
   summary: A modern iperf3 alternative with a live TUI
   maintainers:
     - amakeenk@altlinux.org
@@ -109,13 +97,25 @@
     - Apache-2.0 OR MIT
   categories:
     - Unspecified
-- repo: pkgsrc_2026_1
+- repo: pkgsrc_2026_2
   srcname: net/xfr
   binname: xfr
   visiblename: net/xfr
-  version: 0.9.4
+  version: 0.9.18
   origversion: null
   status: outdated
+  summary: Modern network bandwidth testing with TUI
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
+- repo: pkgsrc_current
+  srcname: net/xfr
+  binname: xfr
+  visiblename: net/xfr
+  version: 0.10.1
+  origversion: null
+  status: newest
   summary: Modern network bandwidth testing with TUI
   maintainers:
     - pkgsrc-users@netbsd.org
