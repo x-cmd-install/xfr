@@ -37,7 +37,7 @@ Total: **28,901** lines of code across **53** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 535 · **Forks**: 21 · **Open issues**: 46 · **Contributors**: 4
+- **Stars**: 536 · **Forks**: 21 · **Open issues**: 46 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **28,901** lines of code across **53** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 30 | 2 | 1 | 0 | 49 |
-| last60d | 2026-07-15 | 6 | 46 | 2 | 2 | 2 | 79 |
-| 90d | 2026-06-15 | 8 | 75 | 2 | 4 | 2 | 138 |
-| last180d | 2026-03-17 | 22 | 114 | 2 | 17 | 3 | 257 |
-| 360d | 2025-09-18 | 35 | 123 | 2 | 42 | 4 | 472 |
-| last720d | 2024-09-23 | 35 | 123 | 2 | 42 | 4 | 579 |
+| 30d | 2026-08-15 | 2 | 30 | 2 | 1 | 0 | 49 |
+| last60d | 2026-07-16 | 6 | 46 | 2 | 2 | 2 | 79 |
+| 90d | 2026-06-16 | 8 | 75 | 2 | 4 | 2 | 132 |
+| last180d | 2026-03-18 | 21 | 113 | 2 | 16 | 3 | 247 |
+| 360d | 2025-09-19 | 35 | 123 | 2 | 42 | 4 | 472 |
+| last720d | 2024-09-24 | 35 | 123 | 2 | 42 | 4 | 579 |
 
 ## Release assets
 
@@ -66,15 +66,6 @@ Total: **28,901** lines of code across **53** files in the top 5 languages.
 | [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.10.1/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.1 MiB | `native/linux/arm64/musl` |
 | [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.10.1/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.3 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/xfr). **4** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.10.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.9.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `xfr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +75,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:06:57Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:22:47Z._

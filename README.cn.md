@@ -37,7 +37,7 @@ x install xfr
 
 ## 流行度
 
-- **Star**: 535 · **Fork**: 21 · **开放 issue**: 46 · **贡献者**: 4
+- **Star**: 536 · **Fork**: 21 · **开放 issue**: 46 · **贡献者**: 4
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install xfr
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 30 | 2 | 1 | 0 | 49 |
-| last60d | 2026-07-15 | 6 | 46 | 2 | 2 | 2 | 79 |
-| 90d | 2026-06-15 | 8 | 75 | 2 | 4 | 2 | 138 |
-| last180d | 2026-03-17 | 22 | 114 | 2 | 17 | 3 | 257 |
-| 360d | 2025-09-18 | 35 | 123 | 2 | 42 | 4 | 472 |
-| last720d | 2024-09-23 | 35 | 123 | 2 | 42 | 4 | 579 |
+| 30d | 2026-08-15 | 2 | 30 | 2 | 1 | 0 | 49 |
+| last60d | 2026-07-16 | 6 | 46 | 2 | 2 | 2 | 79 |
+| 90d | 2026-06-16 | 8 | 75 | 2 | 4 | 2 | 132 |
+| last180d | 2026-03-18 | 21 | 113 | 2 | 16 | 3 | 247 |
+| 360d | 2025-09-19 | 35 | 123 | 2 | 42 | 4 | 472 |
+| last720d | 2024-09-24 | 35 | 123 | 2 | 42 | 4 | 579 |
 
 ## Release 资产
 
@@ -66,15 +66,6 @@ x install xfr
 | [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.10.1/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.1 MiB | `native/linux/arm64/musl` |
 | [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.10.1/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.3 MiB | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/xfr) 上共有 **9** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.10.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.9.3` | ⚠️ outdated |
-
 ## 改进这些数据
 
 xfr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `xfr` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +75,4 @@ xfr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:06:58Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:22:47Z._
