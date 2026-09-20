@@ -4,7 +4,7 @@
 
 A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust.
 
-![xfr](https://repo.x-cmd.io/xfr.svg?lang=zh)
+[![x-cmd/install — xfr Code Quality Monitoring Repo Card](https://repo.x-cmd.io/xfr.svg?lang=zh)](https://x-cmd.com/install/xfr)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install xfr
 
 ## 流行度
 
-- **Star**: 538 · **Fork**: 21 · **开放 issue**: 46 · **贡献者**: 4
+- **Star**: 539 · **Fork**: 21 · **开放 issue**: 46 · **贡献者**: 4
 
 ## 累计统计
 
-- **发布数**: 35 · **已合并 PR**: 126 · **开放 PR**: 0 · **已关闭 issue**: 42 · **开放 issue**: 4 · **提交数**: 586
+- **发布数**: 35 · **已合并 PR**: 126 · **开放 PR**: 2 · **已关闭 issue**: 42 · **开放 issue**: 4 · **提交数**: 586
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 33 | 0 | 1 | 0 | 53 |
-| last60d | 2026-07-20 | 6 | 49 | 0 | 1 | 2 | 83 |
-| 90d | 2026-06-20 | 8 | 78 | 0 | 4 | 2 | 136 |
-| last180d | 2026-03-22 | 20 | 116 | 0 | 16 | 3 | 251 |
-| 360d | 2025-09-23 | 35 | 126 | 0 | 42 | 4 | 476 |
-| last720d | 2024-09-28 | 35 | 126 | 0 | 42 | 4 | 586 |
+| 30d | 2026-08-21 | 2 | 33 | 2 | 1 | 0 | 52 |
+| last60d | 2026-07-22 | 6 | 49 | 2 | 1 | 2 | 73 |
+| 90d | 2026-06-22 | 8 | 77 | 2 | 4 | 2 | 133 |
+| last180d | 2026-03-24 | 20 | 116 | 2 | 16 | 3 | 251 |
+| 360d | 2025-09-25 | 35 | 126 | 2 | 42 | 4 | 476 |
+| last720d | 2024-09-30 | 35 | 126 | 2 | 42 | 4 | 586 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ xfr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:19:27Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:07:06Z._

@@ -4,7 +4,7 @@
 
 A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust.
 
-![xfr](https://repo.x-cmd.io/xfr.svg)
+[![x-cmd/install — xfr Code Quality Monitoring Repo Card](https://repo.x-cmd.io/xfr.svg)](https://x-cmd.com/install/xfr)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **28,901** lines of code across **53** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 538 · **Forks**: 21 · **Open issues**: 46 · **Contributors**: 4
+- **Stars**: 539 · **Forks**: 21 · **Open issues**: 46 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 126 · **Open PRs**: 0 · **Closed issues**: 42 · **Open issues**: 4 · **Commits**: 586
+- **Releases**: 35 · **Merged PRs**: 126 · **Open PRs**: 2 · **Closed issues**: 42 · **Open issues**: 4 · **Commits**: 586
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 33 | 0 | 1 | 0 | 53 |
-| last60d | 2026-07-20 | 6 | 49 | 0 | 1 | 2 | 83 |
-| 90d | 2026-06-20 | 8 | 78 | 0 | 4 | 2 | 136 |
-| last180d | 2026-03-22 | 20 | 116 | 0 | 16 | 3 | 251 |
-| 360d | 2025-09-23 | 35 | 126 | 0 | 42 | 4 | 476 |
-| last720d | 2024-09-28 | 35 | 126 | 0 | 42 | 4 | 586 |
+| 30d | 2026-08-21 | 2 | 33 | 2 | 1 | 0 | 52 |
+| last60d | 2026-07-22 | 6 | 49 | 2 | 1 | 2 | 73 |
+| 90d | 2026-06-22 | 8 | 77 | 2 | 4 | 2 | 133 |
+| last180d | 2026-03-24 | 20 | 116 | 2 | 16 | 3 | 251 |
+| 360d | 2025-09-25 | 35 | 126 | 2 | 42 | 4 | 476 |
+| last720d | 2024-09-30 | 35 | 126 | 2 | 42 | 4 | 586 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:19:26Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:07:06Z._
