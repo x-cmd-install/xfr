@@ -14,14 +14,14 @@ x install xfr
 
 ## Code insight
 
-Total: **28,901** lines of code across **53** files in the top 5 languages.
+Total: **36,482** lines of code across **63** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 27,888 | 2,418 | 3,361 | 41 |
-| Sh | 611 | 216 | 107 | 6 |
+| Rust | 35,182 | 2,591 | 3,753 | 47 |
+| Sh | 897 | 250 | 127 | 10 |
 | Json | 213 | 0 | 0 | 1 |
-| Toml | 110 | 73 | 44 | 4 |
+| Toml | 111 | 73 | 44 | 4 |
 | Nix | 79 | 0 | 15 | 1 |
 
 ## Source
@@ -32,7 +32,7 @@ Total: **28,901** lines of code across **53** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.1` (2026-09-04)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-10-13
 - **Assets in release**: 7
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **28,901** lines of code across **53** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 126 · **Open PRs**: 2 · **Closed issues**: 42 · **Open issues**: 5 · **Commits**: 586
+- **Releases**: 35 · **Merged PRs**: 157 · **Open PRs**: 0 · **Closed issues**: 42 · **Open issues**: 5 · **Commits**: 718
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 3 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-13 | 2 | 33 | 2 | 1 | 1 | 53 |
-| 90d | 2026-07-14 | 6 | 49 | 2 | 3 | 3 | 83 |
-| last180d | 2026-04-15 | 20 | 115 | 2 | 16 | 4 | 221 |
-| 360d | 2025-10-17 | 35 | 126 | 2 | 42 | 5 | 476 |
-| last720d | 2024-10-22 | 35 | 126 | 2 | 42 | 5 | 586 |
+| 30d | 2026-09-13 | 0 | 33 | 0 | 0 | 1 | 100 |
+| last60d | 2026-08-14 | 2 | 64 | 0 | 1 | 1 | 153 |
+| 90d | 2026-07-15 | 6 | 80 | 0 | 2 | 3 | 183 |
+| last180d | 2026-04-16 | 20 | 145 | 0 | 16 | 4 | 321 |
+| 360d | 2025-10-18 | 35 | 157 | 0 | 42 | 5 | 576 |
+| last720d | 2024-10-23 | 35 | 157 | 0 | 42 | 5 | 718 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:02:30Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:00:07Z._
