@@ -14,14 +14,14 @@ x install xfr
 
 ## 代码洞察
 
-合计: **36,564** 行代码（覆盖前 5 种语言、共 **63** 个文件）。
+合计: **38,876** 行代码（覆盖前 5 种语言、共 **64** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 35,264 | 2,603 | 3,756 | 47 |
+| Rust | 37,559 | 2,704 | 3,867 | 48 |
 | Sh | 897 | 250 | 127 | 10 |
 | Json | 213 | 0 | 0 | 1 |
-| Toml | 111 | 73 | 44 | 4 |
+| Toml | 128 | 73 | 44 | 4 |
 | Nix | 79 | 0 | 15 | 1 |
 
 ## 源代码
@@ -31,8 +31,8 @@ x install xfr
 
 ## 发布
 
-- **最新版本**: `v0.11.0` (2026-10-13)
-- **最近提交**: 2026-10-15
+- **最新版本**: `v0.12.0` (2026-10-18)
+- **最近提交**: 2026-10-18
 - **Release 含资产**: 7 个
 
 ## 流行度
@@ -41,30 +41,30 @@ x install xfr
 
 ## 累计统计
 
-- **发布数**: 36 · **已合并 PR**: 159 · **开放 PR**: 1 · **已关闭 issue**: 44 · **开放 issue**: 3 · **提交数**: 732
+- **发布数**: 37 · **已合并 PR**: 182 · **开放 PR**: 0 · **已关闭 issue**: 46 · **开放 issue**: 1 · **提交数**: 839
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 1 | 33 | 1 | 1 | 0 | 112 |
-| last60d | 2026-08-18 | 3 | 66 | 1 | 2 | 0 | 165 |
-| 90d | 2026-07-19 | 7 | 82 | 1 | 3 | 1 | 195 |
-| last180d | 2026-04-20 | 19 | 143 | 1 | 14 | 2 | 333 |
-| 360d | 2025-10-22 | 36 | 159 | 1 | 44 | 3 | 588 |
-| last720d | 2024-10-27 | 36 | 159 | 1 | 44 | 3 | 732 |
+| 30d | 2026-09-18 | 2 | 56 | 0 | 1 | 0 | 194 |
+| last60d | 2026-08-19 | 4 | 89 | 0 | 2 | 0 | 248 |
+| 90d | 2026-07-20 | 8 | 105 | 0 | 4 | 0 | 268 |
+| last180d | 2026-04-21 | 20 | 162 | 0 | 13 | 0 | 404 |
+| 360d | 2025-10-23 | 37 | 182 | 0 | 46 | 1 | 671 |
+| last720d | 2024-10-28 | 37 | 182 | 0 | 46 | 1 | 839 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [completions.tar.gz](https://github.com/lance0/xfr/releases/download/v0.11.0/completions.tar.gz) | 8.8 KiB | `native/unknown` |
-| [SHA256SUMS](https://github.com/lance0/xfr/releases/download/v0.11.0/SHA256SUMS) | 592 B | `other` |
-| [xfr-aarch64-apple-darwin.tar.gz](https://github.com/lance0/xfr/releases/download/v0.11.0/xfr-aarch64-apple-darwin.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
-| [xfr-aarch64-linux-android.tar.gz](https://github.com/lance0/xfr/releases/download/v0.11.0/xfr-aarch64-linux-android.tar.gz) | 4.1 MiB | `native/linux/arm64` |
-| [xfr-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lance0/xfr/releases/download/v0.11.0/xfr-aarch64-unknown-linux-gnu.tar.gz) | 4.1 MiB | `native/linux/arm64/glibc` |
-| [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.11.0/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.1 MiB | `native/linux/arm64/musl` |
-| [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.11.0/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.4 MiB | `native/linux/x64/musl` |
+| [completions.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/completions.tar.gz) | 9.3 KiB | `native/unknown` |
+| [SHA256SUMS](https://github.com/lance0/xfr/releases/download/v0.12.0/SHA256SUMS) | 592 B | `other` |
+| [xfr-aarch64-apple-darwin.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-apple-darwin.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [xfr-aarch64-linux-android.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-linux-android.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [xfr-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-unknown-linux-gnu.tar.gz) | 4.2 MiB | `native/linux/arm64/glibc` |
+| [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
+| [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.5 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -75,4 +75,4 @@ xfr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261017.yml` · 2026-10-17T05:17:03Z._
+_数据快照: `data/card/261018.yml` · 2026-10-18T05:26:36Z._

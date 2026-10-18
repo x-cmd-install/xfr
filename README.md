@@ -14,14 +14,14 @@ x install xfr
 
 ## Code insight
 
-Total: **36,564** lines of code across **63** files in the top 5 languages.
+Total: **38,876** lines of code across **64** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 35,264 | 2,603 | 3,756 | 47 |
+| Rust | 37,559 | 2,704 | 3,867 | 48 |
 | Sh | 897 | 250 | 127 | 10 |
 | Json | 213 | 0 | 0 | 1 |
-| Toml | 111 | 73 | 44 | 4 |
+| Toml | 128 | 73 | 44 | 4 |
 | Nix | 79 | 0 | 15 | 1 |
 
 ## Source
@@ -31,8 +31,8 @@ Total: **36,564** lines of code across **63** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.11.0` (2026-10-13)
-- **Last commit**: 2026-10-15
+- **Latest**: `v0.12.0` (2026-10-18)
+- **Last commit**: 2026-10-18
 - **Assets in release**: 7
 
 ## Popularity
@@ -41,30 +41,30 @@ Total: **36,564** lines of code across **63** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 159 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 3 · **Commits**: 732
+- **Releases**: 37 · **Merged PRs**: 182 · **Open PRs**: 0 · **Closed issues**: 46 · **Open issues**: 1 · **Commits**: 839
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 1 | 33 | 1 | 1 | 0 | 112 |
-| last60d | 2026-08-18 | 3 | 66 | 1 | 2 | 0 | 165 |
-| 90d | 2026-07-19 | 7 | 82 | 1 | 3 | 1 | 195 |
-| last180d | 2026-04-20 | 19 | 143 | 1 | 14 | 2 | 333 |
-| 360d | 2025-10-22 | 36 | 159 | 1 | 44 | 3 | 588 |
-| last720d | 2024-10-27 | 36 | 159 | 1 | 44 | 3 | 732 |
+| 30d | 2026-09-18 | 2 | 56 | 0 | 1 | 0 | 194 |
+| last60d | 2026-08-19 | 4 | 89 | 0 | 2 | 0 | 248 |
+| 90d | 2026-07-20 | 8 | 105 | 0 | 4 | 0 | 268 |
+| last180d | 2026-04-21 | 20 | 162 | 0 | 13 | 0 | 404 |
+| 360d | 2025-10-23 | 37 | 182 | 0 | 46 | 1 | 671 |
+| last720d | 2024-10-28 | 37 | 182 | 0 | 46 | 1 | 839 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [completions.tar.gz](https://github.com/lance0/xfr/releases/download/v0.11.0/completions.tar.gz) | 8.8 KiB | `native/unknown` |
-| [SHA256SUMS](https://github.com/lance0/xfr/releases/download/v0.11.0/SHA256SUMS) | 592 B | `other` |
-| [xfr-aarch64-apple-darwin.tar.gz](https://github.com/lance0/xfr/releases/download/v0.11.0/xfr-aarch64-apple-darwin.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
-| [xfr-aarch64-linux-android.tar.gz](https://github.com/lance0/xfr/releases/download/v0.11.0/xfr-aarch64-linux-android.tar.gz) | 4.1 MiB | `native/linux/arm64` |
-| [xfr-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lance0/xfr/releases/download/v0.11.0/xfr-aarch64-unknown-linux-gnu.tar.gz) | 4.1 MiB | `native/linux/arm64/glibc` |
-| [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.11.0/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.1 MiB | `native/linux/arm64/musl` |
-| [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.11.0/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.4 MiB | `native/linux/x64/musl` |
+| [completions.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/completions.tar.gz) | 9.3 KiB | `native/unknown` |
+| [SHA256SUMS](https://github.com/lance0/xfr/releases/download/v0.12.0/SHA256SUMS) | 592 B | `other` |
+| [xfr-aarch64-apple-darwin.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-apple-darwin.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [xfr-aarch64-linux-android.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-linux-android.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [xfr-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-unknown-linux-gnu.tar.gz) | 4.2 MiB | `native/linux/arm64/glibc` |
+| [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
+| [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.5 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:17:03Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:26:36Z._
