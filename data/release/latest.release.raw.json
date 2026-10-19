@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4177945,
       "digest": "sha256:3c9fcb36579ff68adeb77fff8578879a5aa79e193668f7195c39048384e083f6",
-      "download_count": 2,
+      "download_count": 17,
       "created_at": "2026-10-18T00:17:15Z",
       "updated_at": "2026-10-18T00:17:15Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4360549,
       "digest": "sha256:4e190fb6ee046320dbc2a7fb925585500b1f45d9244131c6c170e4324f88d670",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-18T00:17:15Z",
       "updated_at": "2026-10-18T00:17:15Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4685899,
       "digest": "sha256:0a65035a696bf93d00faa1996e1fed42dc9e95a1c88cf8e0e02b23a86497fbec",
-      "download_count": 12,
+      "download_count": 57,
       "created_at": "2026-10-18T00:17:15Z",
       "updated_at": "2026-10-18T00:17:16Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-x86_64-unknown-linux-musl.tar.gz"
@@ -294,8 +294,8 @@
   "body": "## What's Changed\n* Save preferences and JSON results atomically by @lance0 in https://github.com/lance0/xfr/pull/246\n* Bound stalled Prometheus HTTP connections by @lance0 in https://github.com/lance0/xfr/pull/250\n* Reorganize documentation around a short README by @lance0 in https://github.com/lance0/xfr/pull/251\n* Open the README demo on a populated TUI by @lance0 in https://github.com/lance0/xfr/pull/252\n* Bound hostname resolution with --connect-timeout by @lance0 in https://github.com/lance0/xfr/pull/254\n* Reject ignored client options and write CSV for --csv -o by @lance0 in https://github.com/lance0/xfr/pull/255\n* Stop setting SO_REUSEADDR on ephemeral UDP data sockets by @lance0 in https://github.com/lance0/xfr/pull/256\n* Fix Ctrl-C in client Settings and server TUI by @lance0 in https://github.com/lance0/xfr/pull/245\n* Improve TUI text readability across themes by @lance0 in https://github.com/lance0/xfr/pull/247\n* Explain and lock overridden update-check settings by @lance0 in https://github.com/lance0/xfr/pull/248\n* Keep TUIs readable and help accessible in small terminals by @lance0 in https://github.com/lance0/xfr/pull/249\n* Make the native Windows CI job informational by @lance0 in https://github.com/lance0/xfr/pull/257\n* True up docs after the ttl-parity batch by @lance0 in https://github.com/lance0/xfr/pull/258\n* Reduce allocations in TUI help and server tables by @lance0 in https://github.com/lance0/xfr/pull/259\n* Write Push Gateway metrics directly into the payload buffer by @lance0 in https://github.com/lance0/xfr/pull/260\n* Remove temporary vectors from interval aggregation by @lance0 in https://github.com/lance0/xfr/pull/261\n* Batch allocation cleanup in plain and CSV reporting by @lance0 in https://github.com/lance0/xfr/pull/262\n* Pre-release fixes for 0.12.0 by @lance0 in https://github.com/lance0/xfr/pull/263\n* Fix CLI rough edges before 0.12.0 by @lance0 in https://github.com/lance0/xfr/pull/264\n* Fix TUI rough edges before 0.12.0 by @lance0 in https://github.com/lance0/xfr/pull/265\n* Make the TCP send loop yield so every stream carries data by @lance0 in https://github.com/lance0/xfr/pull/267\n* Close QUIC connections explicitly at test end and on server shutdown by @lance0 in https://github.com/lance0/xfr/pull/266\n* Retire per-test Prometheus series after 16 finished tests by @lance0 in https://github.com/lance0/xfr/pull/268\n\n\n**Full Changelog**: https://github.com/lance0/xfr/compare/v0.11.0...v0.12.0",
   "reactions": {
     "url": "https://api.github.com/repos/lance0/xfr/releases/416145740/reactions",
-    "total_count": 1,
-    "+1": 1,
+    "total_count": 2,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
