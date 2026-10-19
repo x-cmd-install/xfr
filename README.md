@@ -37,22 +37,22 @@ Total: **38,876** lines of code across **64** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 545 · **Forks**: 23 · **Open issues**: 47 · **Contributors**: 4
+- **Stars**: 545 · **Forks**: 24 · **Open issues**: 47 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 182 · **Open PRs**: 0 · **Closed issues**: 46 · **Open issues**: 1 · **Commits**: 839
+- **Releases**: 37 · **Merged PRs**: 182 · **Open PRs**: 2 · **Closed issues**: 46 · **Open issues**: 1 · **Commits**: 839
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 2 | 56 | 0 | 1 | 0 | 194 |
-| last60d | 2026-08-19 | 4 | 89 | 0 | 2 | 0 | 248 |
-| 90d | 2026-07-20 | 8 | 105 | 0 | 4 | 0 | 268 |
-| last180d | 2026-04-21 | 20 | 162 | 0 | 13 | 0 | 404 |
-| 360d | 2025-10-23 | 37 | 182 | 0 | 46 | 1 | 671 |
-| last720d | 2024-10-28 | 37 | 182 | 0 | 46 | 1 | 839 |
+| 30d | 2026-09-19 | 2 | 56 | 2 | 1 | 0 | 194 |
+| last60d | 2026-08-20 | 4 | 89 | 2 | 2 | 0 | 248 |
+| 90d | 2026-07-21 | 8 | 105 | 2 | 4 | 0 | 268 |
+| last180d | 2026-04-22 | 19 | 161 | 2 | 12 | 0 | 404 |
+| 360d | 2025-10-24 | 37 | 182 | 2 | 46 | 1 | 671 |
+| last720d | 2024-10-29 | 37 | 182 | 2 | 46 | 1 | 839 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:26:36Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:39:30Z._
