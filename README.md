@@ -31,40 +31,40 @@ Total: **38,876** lines of code across **64** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.12.0` (2026-10-18)
-- **Last commit**: 2026-10-18
+- **Latest**: `v0.12.1` (2026-10-21)
+- **Last commit**: 2026-10-21
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 545 · **Forks**: 22 · **Open issues**: 47 · **Contributors**: 4
+- **Stars**: 546 · **Forks**: 21 · **Open issues**: 47 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 182 · **Open PRs**: 2 · **Closed issues**: 46 · **Open issues**: 1 · **Commits**: 839
+- **Releases**: 38 · **Merged PRs**: 182 · **Open PRs**: 2 · **Closed issues**: 46 · **Open issues**: 1 · **Commits**: 841
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 2 | 55 | 2 | 1 | 0 | 194 |
-| last60d | 2026-08-22 | 4 | 89 | 2 | 2 | 0 | 248 |
-| 90d | 2026-07-23 | 8 | 105 | 2 | 4 | 0 | 268 |
-| last180d | 2026-04-24 | 18 | 161 | 2 | 12 | 0 | 404 |
-| 360d | 2025-10-26 | 37 | 182 | 2 | 46 | 1 | 671 |
-| last720d | 2024-10-31 | 37 | 182 | 2 | 46 | 1 | 839 |
+| 30d | 2026-09-22 | 3 | 55 | 2 | 1 | 0 | 196 |
+| last60d | 2026-08-23 | 5 | 88 | 2 | 2 | 0 | 250 |
+| 90d | 2026-07-24 | 9 | 99 | 2 | 4 | 0 | 270 |
+| last180d | 2026-04-25 | 19 | 161 | 2 | 12 | 0 | 406 |
+| 360d | 2025-10-27 | 38 | 182 | 2 | 46 | 1 | 673 |
+| last720d | 2024-11-01 | 38 | 182 | 2 | 46 | 1 | 841 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [completions.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/completions.tar.gz) | 9.3 KiB | `native/unknown` |
-| [SHA256SUMS](https://github.com/lance0/xfr/releases/download/v0.12.0/SHA256SUMS) | 592 B | `other` |
-| [xfr-aarch64-apple-darwin.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-apple-darwin.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
-| [xfr-aarch64-linux-android.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-linux-android.tar.gz) | 4.1 MiB | `native/linux/arm64` |
-| [xfr-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-unknown-linux-gnu.tar.gz) | 4.2 MiB | `native/linux/arm64/glibc` |
-| [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
-| [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.5 MiB | `native/linux/x64/musl` |
+| [completions.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/completions.tar.gz) | 9.3 KiB | `native/unknown` |
+| [SHA256SUMS](https://github.com/lance0/xfr/releases/download/v0.12.1/SHA256SUMS) | 592 B | `other` |
+| [xfr-aarch64-apple-darwin.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/xfr-aarch64-apple-darwin.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [xfr-aarch64-linux-android.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/xfr-aarch64-linux-android.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [xfr-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/xfr-aarch64-unknown-linux-gnu.tar.gz) | 4.2 MiB | `native/linux/arm64/glibc` |
+| [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
+| [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.5 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:44:03Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:43:57Z._

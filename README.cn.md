@@ -31,40 +31,40 @@ x install xfr
 
 ## 发布
 
-- **最新版本**: `v0.12.0` (2026-10-18)
-- **最近提交**: 2026-10-18
+- **最新版本**: `v0.12.1` (2026-10-21)
+- **最近提交**: 2026-10-21
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 545 · **Fork**: 22 · **开放 issue**: 47 · **贡献者**: 4
+- **Star**: 546 · **Fork**: 21 · **开放 issue**: 47 · **贡献者**: 4
 
 ## 累计统计
 
-- **发布数**: 37 · **已合并 PR**: 182 · **开放 PR**: 2 · **已关闭 issue**: 46 · **开放 issue**: 1 · **提交数**: 839
+- **发布数**: 38 · **已合并 PR**: 182 · **开放 PR**: 2 · **已关闭 issue**: 46 · **开放 issue**: 1 · **提交数**: 841
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 2 | 55 | 2 | 1 | 0 | 194 |
-| last60d | 2026-08-22 | 4 | 89 | 2 | 2 | 0 | 248 |
-| 90d | 2026-07-23 | 8 | 105 | 2 | 4 | 0 | 268 |
-| last180d | 2026-04-24 | 18 | 161 | 2 | 12 | 0 | 404 |
-| 360d | 2025-10-26 | 37 | 182 | 2 | 46 | 1 | 671 |
-| last720d | 2024-10-31 | 37 | 182 | 2 | 46 | 1 | 839 |
+| 30d | 2026-09-22 | 3 | 55 | 2 | 1 | 0 | 196 |
+| last60d | 2026-08-23 | 5 | 88 | 2 | 2 | 0 | 250 |
+| 90d | 2026-07-24 | 9 | 99 | 2 | 4 | 0 | 270 |
+| last180d | 2026-04-25 | 19 | 161 | 2 | 12 | 0 | 406 |
+| 360d | 2025-10-27 | 38 | 182 | 2 | 46 | 1 | 673 |
+| last720d | 2024-11-01 | 38 | 182 | 2 | 46 | 1 | 841 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [completions.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/completions.tar.gz) | 9.3 KiB | `native/unknown` |
-| [SHA256SUMS](https://github.com/lance0/xfr/releases/download/v0.12.0/SHA256SUMS) | 592 B | `other` |
-| [xfr-aarch64-apple-darwin.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-apple-darwin.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
-| [xfr-aarch64-linux-android.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-linux-android.tar.gz) | 4.1 MiB | `native/linux/arm64` |
-| [xfr-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-unknown-linux-gnu.tar.gz) | 4.2 MiB | `native/linux/arm64/glibc` |
-| [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
-| [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.0/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.5 MiB | `native/linux/x64/musl` |
+| [completions.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/completions.tar.gz) | 9.3 KiB | `native/unknown` |
+| [SHA256SUMS](https://github.com/lance0/xfr/releases/download/v0.12.1/SHA256SUMS) | 592 B | `other` |
+| [xfr-aarch64-apple-darwin.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/xfr-aarch64-apple-darwin.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [xfr-aarch64-linux-android.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/xfr-aarch64-linux-android.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [xfr-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/xfr-aarch64-unknown-linux-gnu.tar.gz) | 4.2 MiB | `native/linux/arm64/glibc` |
+| [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
+| [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.5 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -75,4 +75,4 @@ xfr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:44:04Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:43:58Z._
