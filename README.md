@@ -32,27 +32,27 @@ Total: **38,876** lines of code across **64** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.12.1` (2026-10-21)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-23
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 546 · **Forks**: 21 · **Open issues**: 47 · **Contributors**: 4
+- **Stars**: 548 · **Forks**: 21 · **Open issues**: 47 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 182 · **Open PRs**: 2 · **Closed issues**: 46 · **Open issues**: 1 · **Commits**: 841
+- **Releases**: 38 · **Merged PRs**: 183 · **Open PRs**: 2 · **Closed issues**: 46 · **Open issues**: 1 · **Commits**: 843
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 55 | 2 | 1 | 0 | 196 |
-| last60d | 2026-08-23 | 5 | 88 | 2 | 2 | 0 | 250 |
-| 90d | 2026-07-24 | 9 | 99 | 2 | 4 | 0 | 270 |
-| last180d | 2026-04-25 | 19 | 161 | 2 | 12 | 0 | 406 |
-| 360d | 2025-10-27 | 38 | 182 | 2 | 46 | 1 | 673 |
-| last720d | 2024-11-01 | 38 | 182 | 2 | 46 | 1 | 841 |
+| 30d | 2026-09-23 | 3 | 56 | 2 | 1 | 0 | 197 |
+| last60d | 2026-08-24 | 5 | 89 | 2 | 2 | 0 | 251 |
+| 90d | 2026-07-25 | 8 | 100 | 2 | 4 | 0 | 271 |
+| last180d | 2026-04-26 | 19 | 161 | 2 | 12 | 0 | 407 |
+| 360d | 2025-10-28 | 38 | 183 | 2 | 46 | 1 | 674 |
+| last720d | 2024-11-02 | 38 | 183 | 2 | 46 | 1 | 843 |
 
 ## Release assets
 
@@ -66,6 +66,16 @@ Total: **38,876** lines of code across **64** files in the top 5 languages.
 | [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
 | [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.12.1/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.5 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/xfr). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.12.1` | ✅ latest |
+| Nix unstable | `0.11.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.9.3` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `xfr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -75,4 +85,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:43:57Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:47:26Z._
