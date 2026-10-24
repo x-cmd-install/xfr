@@ -37,22 +37,22 @@ Total: **38,876** lines of code across **64** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 548 · **Forks**: 21 · **Open issues**: 47 · **Contributors**: 4
+- **Stars**: 569 · **Forks**: 21 · **Open issues**: 48 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 183 · **Open PRs**: 2 · **Closed issues**: 46 · **Open issues**: 1 · **Commits**: 843
+- **Releases**: 38 · **Merged PRs**: 183 · **Open PRs**: 2 · **Closed issues**: 46 · **Open issues**: 2 · **Commits**: 843
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 3 | 56 | 2 | 1 | 0 | 197 |
-| last60d | 2026-08-24 | 5 | 89 | 2 | 2 | 0 | 251 |
-| 90d | 2026-07-25 | 8 | 100 | 2 | 4 | 0 | 271 |
-| last180d | 2026-04-26 | 19 | 161 | 2 | 12 | 0 | 407 |
-| 360d | 2025-10-28 | 38 | 183 | 2 | 46 | 1 | 674 |
-| last720d | 2024-11-02 | 38 | 183 | 2 | 46 | 1 | 843 |
+| 30d | 2026-09-24 | 3 | 56 | 2 | 1 | 1 | 197 |
+| last60d | 2026-08-25 | 5 | 89 | 2 | 2 | 1 | 251 |
+| 90d | 2026-07-26 | 8 | 100 | 2 | 4 | 1 | 271 |
+| last180d | 2026-04-27 | 19 | 161 | 2 | 12 | 1 | 407 |
+| 360d | 2025-10-29 | 38 | 183 | 2 | 46 | 2 | 674 |
+| last720d | 2024-11-03 | 38 | 183 | 2 | 46 | 2 | 843 |
 
 ## Release assets
 
@@ -68,7 +68,7 @@ Total: **38,876** lines of code across **64** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/xfr). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/xfr). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -85,4 +85,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:47:26Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:41:09Z._
