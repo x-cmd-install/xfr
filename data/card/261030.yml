@@ -1,0 +1,139 @@
+about:
+  description: "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
+  license: Apache-2.0
+  homepage: 
+  head: d529ffd
+  archived: false
+  latestVersion: "v0.12.1"
+  latestRelease: "v0.12.1"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T06:50:01Z
+timeline:
+  created: 2026-01-31
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-21
+  lastRelease: 2026-10-21
+  lastPrerelease: 
+popularity:
+  star: 581
+  watcher: 2
+  fork: 21
+  release: 38
+  contributor: 4
+  pullRequest: 232
+  issue: 49
+language:
+  Rust: 1840451
+  Shell: 50372
+  Python: 20711
+  Nix: 2287
+  Just: 1392
+totalBytes: 1915213
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 3
+    mergedPR: 65
+    openPR: 0
+    closedIssue: 2
+    openIssue: 1
+    commit: 206
+  last60d:
+    since: 2026-08-31
+    release: 5
+    mergedPR: 77
+    openPR: 0
+    closedIssue: 3
+    openIssue: 1
+    commit: 236
+  last90d:
+    since: 2026-08-01
+    release: 5
+    mergedPR: 101
+    openPR: 0
+    closedIssue: 3
+    openIssue: 1
+    commit: 262
+  last180d:
+    since: 2026-05-03
+    release: 18
+    mergedPR: 162
+    openPR: 0
+    closedIssue: 11
+    openIssue: 1
+    commit: 379
+  last360d:
+    since: 2025-11-04
+    release: 38
+    mergedPR: 192
+    openPR: 0
+    closedIssue: 47
+    openIssue: 2
+    commit: 683
+  last720d:
+    since: 2024-11-09
+    release: 38
+    mergedPR: 192
+    openPR: 0
+    closedIssue: 47
+    openIssue: 2
+    commit: 852
+total:
+  release: 38
+  mergedPR: 192
+  openPR: 0
+  closedIssue: 47
+  openIssue: 2
+  commit: 852
+---
+path: /home/runner/.x-repo/github.com/lance0/xfr
+collectedAt: 2026-10-30T06:50:02Z
+loc:
+  Rust:
+    code: 39745
+    comments: 2705
+    blanks: 3915
+    files: 49
+  Sh:
+    code: 1019
+    comments: 254
+    blanks: 133
+    files: 11
+  Python:
+    code: 527
+    comments: 4
+    blanks: 39
+    files: 1
+  Json:
+    code: 213
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 128
+    comments: 83
+    blanks: 47
+    files: 4
+  Nix:
+    code: 79
+    comments: 0
+    blanks: 15
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2873
+    blanks: 968
+    files: 13
+  Text:
+    code: 0
+    comments: 57
+    blanks: 14
+    files: 4
+total:
+  code: 42175
+  comments: 8696
+  blanks: 5377
+  files: 84
+---
+
+---
