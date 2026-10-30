@@ -14,15 +14,15 @@ x install xfr
 
 ## Code insight
 
-Total: **38,876** lines of code across **64** files in the top 5 languages.
+Total: **41,711** lines of code across **66** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 37,559 | 2,704 | 3,867 | 48 |
-| Sh | 897 | 250 | 127 | 10 |
+| Rust | 39,745 | 2,705 | 3,915 | 49 |
+| Sh | 1,019 | 254 | 133 | 11 |
+| Python | 527 | 4 | 39 | 1 |
 | Json | 213 | 0 | 0 | 1 |
-| Toml | 128 | 73 | 44 | 4 |
-| Nix | 79 | 0 | 15 | 1 |
+| Toml | 128 | 83 | 47 | 4 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **38,876** lines of code across **64** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.12.1` (2026-10-21)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-30
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 579 · **Forks**: 21 · **Open issues**: 49 · **Contributors**: 4
+- **Stars**: 581 · **Forks**: 21 · **Open issues**: 49 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 186 · **Open PRs**: 1 · **Closed issues**: 46 · **Open issues**: 3 · **Commits**: 846
+- **Releases**: 38 · **Merged PRs**: 192 · **Open PRs**: 0 · **Closed issues**: 47 · **Open issues**: 2 · **Commits**: 852
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 3 | 59 | 1 | 1 | 2 | 200 |
-| last60d | 2026-08-30 | 5 | 78 | 1 | 2 | 2 | 230 |
-| 90d | 2026-07-31 | 6 | 95 | 1 | 2 | 2 | 256 |
-| last180d | 2026-05-02 | 18 | 161 | 1 | 11 | 2 | 373 |
-| 360d | 2025-11-03 | 38 | 186 | 1 | 46 | 3 | 677 |
-| last720d | 2024-11-08 | 38 | 186 | 1 | 46 | 3 | 846 |
+| 30d | 2026-09-30 | 3 | 65 | 0 | 2 | 1 | 206 |
+| last60d | 2026-08-31 | 5 | 77 | 0 | 3 | 1 | 236 |
+| 90d | 2026-08-01 | 5 | 101 | 0 | 3 | 1 | 262 |
+| last180d | 2026-05-03 | 18 | 162 | 0 | 11 | 1 | 379 |
+| 360d | 2025-11-04 | 38 | 192 | 0 | 47 | 2 | 683 |
+| last720d | 2024-11-09 | 38 | 192 | 0 | 47 | 2 | 852 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:59:52Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:50:08Z._
