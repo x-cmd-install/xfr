@@ -34,8 +34,8 @@
   srcname: xfr-bin
   binname: xfr-bin
   visiblename: xfr-bin
-  version: 0.12.1
-  origversion: 0.12.1-1
+  version: 0.14.0
+  origversion: 0.14.0-1
   status: newest
   summary: A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support
   maintainers:
@@ -46,9 +46,9 @@
 - repo: homebrew
   srcname: xfr
   visiblename: xfr
-  version: 0.12.1
+  version: 0.13.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Modern network bandwidth testing with TUI
 - repo: homebrew
   srcname: xfr
@@ -73,7 +73,7 @@
 - repo: nix_unstable
   srcname: xfr
   visiblename: xfr
-  version: 0.11.0
+  version: 0.12.1
   origversion: null
   status: outdated
   summary: Modern iperf3 alternative with a live TUI, multi-client server, and QUIC support.
@@ -129,7 +129,7 @@
   visiblename: net/xfr
   version: 0.12.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Modern network bandwidth testing with TUI
   maintainers:
     - pkgsrc-users@netbsd.org
