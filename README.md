@@ -37,22 +37,22 @@ Total: **43,568** lines of code across **67** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 582 · **Forks**: 21 · **Open issues**: 49 · **Contributors**: 4
+- **Stars**: 583 · **Forks**: 21 · **Open issues**: 49 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 210 · **Open PRs**: 0 · **Closed issues**: 47 · **Open issues**: 2 · **Commits**: 873
+- **Releases**: 40 · **Merged PRs**: 210 · **Open PRs**: 1 · **Closed issues**: 48 · **Open issues**: 1 · **Commits**: 873
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 5 | 83 | 0 | 2 | 1 | 227 |
-| last60d | 2026-09-01 | 6 | 95 | 0 | 2 | 1 | 257 |
-| 90d | 2026-08-02 | 7 | 117 | 0 | 3 | 1 | 283 |
-| last180d | 2026-05-04 | 17 | 180 | 0 | 11 | 1 | 400 |
-| 360d | 2025-11-05 | 40 | 210 | 0 | 47 | 2 | 704 |
-| last720d | 2024-11-10 | 40 | 210 | 0 | 47 | 2 | 873 |
+| 30d | 2026-10-02 | 5 | 83 | 1 | 3 | 0 | 227 |
+| last60d | 2026-09-02 | 6 | 95 | 1 | 3 | 0 | 234 |
+| 90d | 2026-08-03 | 7 | 117 | 1 | 4 | 0 | 281 |
+| last180d | 2026-05-05 | 17 | 180 | 1 | 12 | 0 | 400 |
+| 360d | 2025-11-06 | 40 | 210 | 1 | 48 | 1 | 704 |
+| last720d | 2024-11-11 | 40 | 210 | 1 | 48 | 1 | 873 |
 
 ## Release assets
 
@@ -68,11 +68,11 @@ Total: **43,568** lines of code across **67** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/xfr). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/xfr). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.13.0` | ⚠️ outdated |
+| Homebrew | `0.14.0` | ✅ latest |
 | Nix unstable | `0.12.1` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.9.3` | ⚠️ outdated |
 
@@ -85,4 +85,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:45:41Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:06:10Z._
