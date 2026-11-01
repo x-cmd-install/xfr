@@ -46,9 +46,9 @@
 - repo: homebrew
   srcname: xfr
   visiblename: xfr
-  version: 0.13.0
+  version: 0.14.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Modern network bandwidth testing with TUI
 - repo: homebrew
   srcname: xfr
