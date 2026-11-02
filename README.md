@@ -47,12 +47,12 @@ Total: **43,568** lines of code across **67** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 5 | 83 | 1 | 3 | 0 | 227 |
-| last60d | 2026-09-02 | 6 | 95 | 1 | 3 | 0 | 234 |
-| 90d | 2026-08-03 | 7 | 117 | 1 | 4 | 0 | 281 |
-| last180d | 2026-05-05 | 17 | 180 | 1 | 12 | 0 | 400 |
-| 360d | 2025-11-06 | 40 | 210 | 1 | 48 | 1 | 704 |
-| last720d | 2024-11-11 | 40 | 210 | 1 | 48 | 1 | 873 |
+| 30d | 2026-10-03 | 5 | 83 | 1 | 3 | 0 | 227 |
+| last60d | 2026-09-03 | 6 | 95 | 1 | 3 | 0 | 234 |
+| 90d | 2026-08-04 | 7 | 117 | 1 | 4 | 0 | 281 |
+| last180d | 2026-05-06 | 17 | 180 | 1 | 12 | 0 | 400 |
+| 360d | 2025-11-07 | 40 | 210 | 1 | 48 | 1 | 704 |
+| last720d | 2024-11-12 | 40 | 210 | 1 | 48 | 1 | 873 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:06:10Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:19:17Z._
