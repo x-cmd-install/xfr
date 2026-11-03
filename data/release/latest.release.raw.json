@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4254160,
       "digest": "sha256:b1fd71a42ff0c9656eaf35a4f3ea619245398dc27e9d30a1e9acab5be1a9b78f",
-      "download_count": 29,
+      "download_count": 35,
       "created_at": "2026-10-31T04:09:01Z",
       "updated_at": "2026-10-31T04:09:01Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4440203,
       "digest": "sha256:17a1fded04848d7585c61e7d73820f71c33360a9572572cae827a76e863405dc",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-31T04:09:01Z",
       "updated_at": "2026-10-31T04:09:01Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4774306,
       "digest": "sha256:42611677c9d1721aeed27c2f6422a6974ba852a8d6b68bcefe3571ae4b0f0be3",
-      "download_count": 80,
+      "download_count": 124,
       "created_at": "2026-10-31T04:09:01Z",
       "updated_at": "2026-10-31T04:09:01Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-x86_64-unknown-linux-musl.tar.gz"
@@ -292,5 +292,17 @@
   "tarball_url": "https://api.github.com/repos/lance0/xfr/tarball/v0.14.0",
   "zipball_url": "https://api.github.com/repos/lance0/xfr/zipball/v0.14.0",
   "body": "## What's Changed\n* feat: client port from [client] port or a host:port target by @lance0 in https://github.com/lance0/xfr/pull/289\n* fix: QUIC clients give up on a silent server within seconds by @lance0 in https://github.com/lance0/xfr/pull/290\n* fix: one discover line per server, no wrong link-local zones by @lance0 in https://github.com/lance0/xfr/pull/292\n* fix: PSK mismatch wording, -n durations, zoneless link-local, push retry noise by @lance0 in https://github.com/lance0/xfr/pull/293\n* test: run the 64-stream TCP load test in its own binary by @lance0 in https://github.com/lance0/xfr/pull/294\n* fix: let UDP receivers drain reordered stragglers before finalizing loss by @lance0 in https://github.com/lance0/xfr/pull/291\n* feat: --config, XFR_CONFIG and /etc/xfr/config.toml by @lance0 in https://github.com/lance0/xfr/pull/295\n* fix: review follow-ups for QUIC keep-alive, discover link-locals and -n TCP_INFO by @lance0 in https://github.com/lance0/xfr/pull/296\n* docs: release prep for 0.14.0 by @lance0 in https://github.com/lance0/xfr/pull/297\n* test: avoid occupied ports and bound the legacy UDP fixture by @lance0 in https://github.com/lance0/xfr/pull/298\n* fix: preserve completed results after stdout closes by @lance0 in https://github.com/lance0/xfr/pull/299\n* fix: raise the QUIC idle timeout to 10 s by @lance0 in https://github.com/lance0/xfr/pull/300\n\n\n**Full Changelog**: https://github.com/lance0/xfr/compare/v0.13.0...v0.14.0",
+  "reactions": {
+    "url": "https://api.github.com/repos/lance0/xfr/releases/429712690/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 1
 }
