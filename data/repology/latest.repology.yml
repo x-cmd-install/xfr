@@ -127,9 +127,9 @@
   srcname: net/xfr
   binname: xfr
   visiblename: net/xfr
-  version: 0.12.1
+  version: 0.14.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Modern network bandwidth testing with TUI
   maintainers:
     - pkgsrc-users@netbsd.org

@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 592,
       "digest": "sha256:868a5e659d86cce3fb31a469628d35328fd573d7c5a55b51b49951657ed5c734",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-31T04:09:01Z",
       "updated_at": "2026-10-31T04:09:01Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.0/SHA256SUMS"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4254160,
       "digest": "sha256:b1fd71a42ff0c9656eaf35a4f3ea619245398dc27e9d30a1e9acab5be1a9b78f",
-      "download_count": 41,
+      "download_count": 45,
       "created_at": "2026-10-31T04:09:01Z",
       "updated_at": "2026-10-31T04:09:01Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4398455,
       "digest": "sha256:1ddcc06b858262084b234c81c0daa2f69e39296585cde9c9b9e9e8941ad5e914",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-31T04:09:01Z",
       "updated_at": "2026-10-31T04:09:01Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-linux-android.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4440203,
       "digest": "sha256:17a1fded04848d7585c61e7d73820f71c33360a9572572cae827a76e863405dc",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-31T04:09:01Z",
       "updated_at": "2026-10-31T04:09:01Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4774306,
       "digest": "sha256:42611677c9d1721aeed27c2f6422a6974ba852a8d6b68bcefe3571ae4b0f0be3",
-      "download_count": 215,
+      "download_count": 265,
       "created_at": "2026-10-31T04:09:01Z",
       "updated_at": "2026-10-31T04:09:01Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-x86_64-unknown-linux-musl.tar.gz"
