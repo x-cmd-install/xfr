@@ -14,12 +14,12 @@ x install xfr
 
 ## 代码洞察
 
-合计: **43,568** 行代码（覆盖前 5 种语言、共 **67** 个文件）。
+合计: **43,990** 行代码（覆盖前 5 种语言、共 **69** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 41,594 | 2,821 | 4,048 | 50 |
-| Sh | 1,027 | 255 | 133 | 11 |
+| Rust | 41,942 | 2,838 | 4,067 | 51 |
+| Sh | 1,101 | 272 | 143 | 12 |
 | Python | 527 | 4 | 39 | 1 |
 | Json | 213 | 0 | 0 | 1 |
 | Toml | 128 | 86 | 48 | 4 |
@@ -31,50 +31,51 @@ x install xfr
 
 ## 发布
 
-- **最新版本**: `v0.14.0` (2026-10-31)
-- **最近提交**: 2026-11-02
-- **Release 含资产**: 7 个
+- **最新版本**: `v0.14.1` (2026-11-06)
+- **最近提交**: 2026-11-06
+- **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 585 · **Fork**: 22 · **开放 issue**: 50 · **贡献者**: 4
+- **Star**: 585 · **Fork**: 22 · **开放 issue**: 50 · **贡献者**: 5
 
 ## 累计统计
 
-- **发布数**: 40 · **已合并 PR**: 211 · **开放 PR**: 2 · **已关闭 issue**: 48 · **开放 issue**: 2 · **提交数**: 874
+- **发布数**: 41 · **已合并 PR**: 219 · **开放 PR**: 1 · **已关闭 issue**: 48 · **开放 issue**: 2 · **提交数**: 883
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 5 | 84 | 2 | 3 | 1 | 228 |
-| last60d | 2026-09-07 | 5 | 89 | 2 | 3 | 1 | 235 |
-| 90d | 2026-08-08 | 7 | 118 | 2 | 4 | 1 | 282 |
-| last180d | 2026-05-10 | 17 | 181 | 2 | 12 | 1 | 401 |
-| 360d | 2025-11-11 | 40 | 211 | 2 | 48 | 2 | 705 |
-| last720d | 2024-11-16 | 40 | 211 | 2 | 48 | 2 | 874 |
+| 30d | 2026-10-08 | 6 | 92 | 1 | 3 | 1 | 237 |
+| last60d | 2026-09-08 | 6 | 97 | 1 | 3 | 1 | 244 |
+| 90d | 2026-08-09 | 8 | 126 | 1 | 4 | 1 | 291 |
+| last180d | 2026-05-11 | 18 | 189 | 1 | 12 | 1 | 410 |
+| 360d | 2025-11-12 | 41 | 219 | 1 | 48 | 2 | 714 |
+| last720d | 2024-11-17 | 41 | 219 | 1 | 48 | 2 | 883 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [completions.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.0/completions.tar.gz) | 9.3 KiB | `native/unknown` |
-| [SHA256SUMS](https://github.com/lance0/xfr/releases/download/v0.14.0/SHA256SUMS) | 592 B | `other` |
-| [xfr-aarch64-apple-darwin.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
-| [xfr-aarch64-linux-android.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-linux-android.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [xfr-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-unknown-linux-gnu.tar.gz) | 4.2 MiB | `native/linux/arm64/glibc` |
-| [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.3 MiB | `native/linux/arm64/musl` |
-| [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.6 MiB | `native/linux/x64/musl` |
+| [completions.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/completions.tar.gz) | 9.3 KiB | `native/unknown` |
+| [SHA256SUMS](https://github.com/lance0/xfr/releases/download/v0.14.1/SHA256SUMS) | 700 B | `other` |
+| [xfr-aarch64-apple-darwin.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-aarch64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
+| [xfr-aarch64-linux-android.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-aarch64-linux-android.tar.gz) | 4.2 MiB | `native/linux/arm64` |
+| [xfr-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-aarch64-unknown-linux-gnu.tar.gz) | 4.2 MiB | `native/linux/arm64/glibc` |
+| [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
+| [xfr-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-armv7-unknown-linux-musleabihf.tar.gz) | 4.3 MiB | `native/linux/arm/musl` |
+| [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.5 MiB | `native/linux/x64/musl` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/xfr) 上共有 **11** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/xfr) 上共有 **11** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.14.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.12.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.14.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.14.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -85,4 +86,4 @@ xfr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261106.yml` · 2026-11-06T07:46:53Z._
+_数据快照: `data/card/261107.yml` · 2026-11-07T07:09:32Z._

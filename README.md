@@ -14,12 +14,12 @@ x install xfr
 
 ## Code insight
 
-Total: **43,568** lines of code across **67** files in the top 5 languages.
+Total: **43,990** lines of code across **69** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 41,594 | 2,821 | 4,048 | 50 |
-| Sh | 1,027 | 255 | 133 | 11 |
+| Rust | 41,942 | 2,838 | 4,067 | 51 |
+| Sh | 1,101 | 272 | 143 | 12 |
 | Python | 527 | 4 | 39 | 1 |
 | Json | 213 | 0 | 0 | 1 |
 | Toml | 128 | 86 | 48 | 4 |
@@ -31,50 +31,51 @@ Total: **43,568** lines of code across **67** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.14.0` (2026-10-31)
-- **Last commit**: 2026-11-02
-- **Assets in release**: 7
+- **Latest**: `v0.14.1` (2026-11-06)
+- **Last commit**: 2026-11-06
+- **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 585 · **Forks**: 22 · **Open issues**: 50 · **Contributors**: 4
+- **Stars**: 585 · **Forks**: 22 · **Open issues**: 50 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 211 · **Open PRs**: 2 · **Closed issues**: 48 · **Open issues**: 2 · **Commits**: 874
+- **Releases**: 41 · **Merged PRs**: 219 · **Open PRs**: 1 · **Closed issues**: 48 · **Open issues**: 2 · **Commits**: 883
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 5 | 84 | 2 | 3 | 1 | 228 |
-| last60d | 2026-09-07 | 5 | 89 | 2 | 3 | 1 | 235 |
-| 90d | 2026-08-08 | 7 | 118 | 2 | 4 | 1 | 282 |
-| last180d | 2026-05-10 | 17 | 181 | 2 | 12 | 1 | 401 |
-| 360d | 2025-11-11 | 40 | 211 | 2 | 48 | 2 | 705 |
-| last720d | 2024-11-16 | 40 | 211 | 2 | 48 | 2 | 874 |
+| 30d | 2026-10-08 | 6 | 92 | 1 | 3 | 1 | 237 |
+| last60d | 2026-09-08 | 6 | 97 | 1 | 3 | 1 | 244 |
+| 90d | 2026-08-09 | 8 | 126 | 1 | 4 | 1 | 291 |
+| last180d | 2026-05-11 | 18 | 189 | 1 | 12 | 1 | 410 |
+| 360d | 2025-11-12 | 41 | 219 | 1 | 48 | 2 | 714 |
+| last720d | 2024-11-17 | 41 | 219 | 1 | 48 | 2 | 883 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [completions.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.0/completions.tar.gz) | 9.3 KiB | `native/unknown` |
-| [SHA256SUMS](https://github.com/lance0/xfr/releases/download/v0.14.0/SHA256SUMS) | 592 B | `other` |
-| [xfr-aarch64-apple-darwin.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
-| [xfr-aarch64-linux-android.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-linux-android.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [xfr-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-unknown-linux-gnu.tar.gz) | 4.2 MiB | `native/linux/arm64/glibc` |
-| [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.3 MiB | `native/linux/arm64/musl` |
-| [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.0/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.6 MiB | `native/linux/x64/musl` |
+| [completions.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/completions.tar.gz) | 9.3 KiB | `native/unknown` |
+| [SHA256SUMS](https://github.com/lance0/xfr/releases/download/v0.14.1/SHA256SUMS) | 700 B | `other` |
+| [xfr-aarch64-apple-darwin.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-aarch64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
+| [xfr-aarch64-linux-android.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-aarch64-linux-android.tar.gz) | 4.2 MiB | `native/linux/arm64` |
+| [xfr-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-aarch64-unknown-linux-gnu.tar.gz) | 4.2 MiB | `native/linux/arm64/glibc` |
+| [xfr-aarch64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-aarch64-unknown-linux-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
+| [xfr-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-armv7-unknown-linux-musleabihf.tar.gz) | 4.3 MiB | `native/linux/arm/musl` |
+| [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.5 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/xfr). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/xfr). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.14.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.12.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.14.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.14.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -85,4 +86,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:46:52Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:09:31Z._
