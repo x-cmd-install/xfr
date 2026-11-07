@@ -1,19 +1,17 @@
-- repo: alt_p11
+- repo: homebrew
   srcname: xfr
-  binnames:
-    - xfr
-    - xfr-debuginfo
   visiblename: xfr
-  version: 0.10.1
-  origversion: 0.10.1-alt1
-  status: outdated
-  summary: A modern iperf3 alternative with a live TUI
-  maintainers:
-    - amakeenk@altlinux.org
-  licenses:
-    - MIT or Apache-2.0
-  categories:
-    - Monitoring
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Modern network bandwidth testing with TUI
+- repo: homebrew
+  srcname: xfr
+  visiblename: xfr
+  version: 0.14.1
+  origversion: null
+  status: newest
+  summary: Modern network bandwidth testing with TUI
 - repo: altsisyphus
   srcname: xfr
   binnames:
@@ -34,8 +32,8 @@
   srcname: xfr-bin
   binname: xfr-bin
   visiblename: xfr-bin
-  version: 0.14.0
-  origversion: 0.14.0-1
+  version: 0.14.1
+  origversion: 0.14.1-1
   status: newest
   summary: A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support
   maintainers:
@@ -43,20 +41,22 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: homebrew
+- repo: alt_p11
   srcname: xfr
+  binnames:
+    - xfr
+    - xfr-debuginfo
   visiblename: xfr
-  version: 0.14.0
-  origversion: null
-  status: newest
-  summary: Modern network bandwidth testing with TUI
-- repo: homebrew
-  srcname: xfr
-  visiblename: xfr
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Modern network bandwidth testing with TUI
+  version: 0.10.1
+  origversion: 0.10.1-alt1
+  status: outdated
+  summary: A modern iperf3 alternative with a live TUI
+  maintainers:
+    - amakeenk@altlinux.org
+  licenses:
+    - MIT or Apache-2.0
+  categories:
+    - Monitoring
 - repo: nix_stable_26_05
   srcname: xfr
   visiblename: xfr
@@ -93,7 +93,7 @@
   visiblename: xfr
   version: 0.14.0
   origversion: 0.14.0-1.1
-  status: newest
+  status: outdated
   summary: Network bandwidth testing tool with TUI
   licenses:
     - Apache-2.0 OR MIT
@@ -129,7 +129,7 @@
   visiblename: net/xfr
   version: 0.14.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Modern network bandwidth testing with TUI
   maintainers:
     - pkgsrc-users@netbsd.org
