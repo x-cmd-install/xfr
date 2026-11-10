@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9554,
       "digest": "sha256:112c618f29827993c3f9687d3ac89c3544f08998341ff983a4b8be27cca61d66",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-06T16:59:03Z",
       "updated_at": "2026-11-06T16:59:03Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.1/completions.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 700,
       "digest": "sha256:228839eb182561632fd929be3eca7da7d248a687c66e50a42654d3ce4d51ed3b",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-06T16:59:03Z",
       "updated_at": "2026-11-06T16:59:03Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.1/SHA256SUMS"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4248665,
       "digest": "sha256:4fa76ef18c2a8b0df1de83eb7ee9b8c12448eaadfd1fce1ab4c93c5dfcf83dc3",
-      "download_count": 13,
+      "download_count": 32,
       "created_at": "2026-11-06T16:59:03Z",
       "updated_at": "2026-11-06T16:59:04Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4391590,
       "digest": "sha256:61aa8173343f761c80691f33c4f9ee1ac912a3a911a96ebafbb2394697fa59ba",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-06T16:59:03Z",
       "updated_at": "2026-11-06T16:59:04Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-aarch64-linux-android.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4436066,
       "digest": "sha256:77207f707aa3e5b5968f0bb345edccffb7d2a537618239f5ad821e8abcbc0fca",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-06T16:59:03Z",
       "updated_at": "2026-11-06T16:59:04Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-aarch64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4449127,
       "digest": "sha256:6e7cc9337b1b0d87ea735e2f192997fa35cbe26ff7a92ef78d784a86113e6cdb",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-06T16:59:03Z",
       "updated_at": "2026-11-06T16:59:04Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-aarch64-unknown-linux-musl.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4535459,
       "digest": "sha256:49e94e24a1ed89e85bf59294cb0d2e5fd2ea379d455d5ba839b506da23098f75",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-06T16:59:03Z",
       "updated_at": "2026-11-06T16:59:04Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-armv7-unknown-linux-musleabihf.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4764723,
       "digest": "sha256:cf9bc25c30d82dd677b259882a9fb89384f9420aafa3415e17b1922fa6fcabcc",
-      "download_count": 73,
+      "download_count": 148,
       "created_at": "2026-11-06T16:59:03Z",
       "updated_at": "2026-11-06T16:59:04Z",
       "browser_download_url": "https://github.com/lance0/xfr/releases/download/v0.14.1/xfr-x86_64-unknown-linux-musl.tar.gz"
