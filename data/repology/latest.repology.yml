@@ -73,7 +73,7 @@
 - repo: nix_unstable
   srcname: xfr
   visiblename: xfr
-  version: 0.12.1
+  version: 0.14.1
   origversion: null
   status: outdated
   summary: Modern iperf3 alternative with a live TUI, multi-client server, and QUIC support.
@@ -127,7 +127,7 @@
   srcname: net/xfr
   binname: xfr
   visiblename: net/xfr
-  version: 0.14.0
+  version: 0.14.1
   origversion: null
   status: outdated
   summary: Modern network bandwidth testing with TUI
