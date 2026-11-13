@@ -37,7 +37,7 @@ Total: **44,888** lines of code across **70** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 586 · **Forks**: 22 · **Open issues**: 50 · **Contributors**: 5
+- **Stars**: 587 · **Forks**: 22 · **Open issues**: 50 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **44,888** lines of code across **70** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 7 | 69 | 0 | 3 | 0 | 136 |
-| last60d | 2026-09-13 | 7 | 104 | 0 | 4 | 0 | 248 |
-| 90d | 2026-08-14 | 9 | 135 | 0 | 5 | 0 | 301 |
-| last180d | 2026-05-16 | 19 | 198 | 0 | 13 | 0 | 420 |
-| 360d | 2025-11-17 | 42 | 228 | 0 | 49 | 1 | 724 |
-| last720d | 2024-11-22 | 42 | 228 | 0 | 49 | 1 | 893 |
+| 30d | 2026-10-14 | 6 | 69 | 0 | 3 | 0 | 136 |
+| last60d | 2026-09-14 | 7 | 104 | 0 | 4 | 0 | 248 |
+| 90d | 2026-08-15 | 9 | 135 | 0 | 5 | 0 | 301 |
+| last180d | 2026-05-17 | 19 | 198 | 0 | 13 | 0 | 420 |
+| 360d | 2025-11-18 | 42 | 228 | 0 | 49 | 1 | 724 |
+| last720d | 2024-11-23 | 42 | 228 | 0 | 49 | 1 | 893 |
 
 ## Release assets
 
@@ -76,7 +76,7 @@ Reported by **11** distros on [repology.org](https://repology.org/project/xfr). 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.15.0` | ✅ latest |
-| Nix unstable | `0.12.1` | ⚠️ outdated |
+| Nix unstable | `0.14.1` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.14.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -88,4 +88,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:42:22Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:17:33Z._
