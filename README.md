@@ -32,27 +32,27 @@ Total: **44,888** lines of code across **70** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.15.0` (2026-11-11)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-14
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 587 · **Forks**: 22 · **Open issues**: 50 · **Contributors**: 5
+- **Stars**: 588 · **Forks**: 22 · **Open issues**: 50 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 228 · **Open PRs**: 1 · **Closed issues**: 49 · **Open issues**: 1 · **Commits**: 893
+- **Releases**: 42 · **Merged PRs**: 229 · **Open PRs**: 2 · **Closed issues**: 49 · **Open issues**: 1 · **Commits**: 894
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 6 | 69 | 1 | 3 | 0 | 136 |
-| last60d | 2026-09-15 | 7 | 102 | 1 | 4 | 0 | 248 |
-| 90d | 2026-08-16 | 9 | 135 | 1 | 5 | 0 | 301 |
-| last180d | 2026-05-18 | 19 | 198 | 1 | 13 | 0 | 420 |
-| 360d | 2025-11-19 | 42 | 228 | 1 | 49 | 1 | 724 |
-| last720d | 2024-11-24 | 42 | 228 | 1 | 49 | 1 | 893 |
+| 30d | 2026-10-16 | 6 | 69 | 2 | 3 | 0 | 51 |
+| last60d | 2026-09-16 | 7 | 103 | 2 | 4 | 0 | 248 |
+| 90d | 2026-08-17 | 9 | 136 | 2 | 5 | 0 | 302 |
+| last180d | 2026-05-19 | 19 | 199 | 2 | 13 | 0 | 421 |
+| 360d | 2025-11-20 | 42 | 229 | 2 | 49 | 1 | 725 |
+| last720d | 2024-11-25 | 42 | 229 | 2 | 49 | 1 | 894 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:54:04Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:48:35Z._
