@@ -32,27 +32,27 @@ Total: **44,888** lines of code across **70** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.15.0` (2026-11-11)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 592 · **Forks**: 22 · **Open issues**: 50 · **Contributors**: 5
+- **Stars**: 593 · **Forks**: 22 · **Open issues**: 50 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 230 · **Open PRs**: 2 · **Closed issues**: 49 · **Open issues**: 1 · **Commits**: 895
+- **Releases**: 42 · **Merged PRs**: 231 · **Open PRs**: 2 · **Closed issues**: 49 · **Open issues**: 1 · **Commits**: 896
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 4 | 46 | 2 | 2 | 0 | 43 |
-| last60d | 2026-09-24 | 7 | 103 | 2 | 4 | 0 | 249 |
-| 90d | 2026-08-25 | 9 | 136 | 2 | 5 | 0 | 281 |
-| last180d | 2026-05-27 | 19 | 200 | 2 | 13 | 0 | 422 |
-| 360d | 2025-11-28 | 42 | 230 | 2 | 49 | 1 | 726 |
-| last720d | 2024-12-03 | 42 | 230 | 2 | 49 | 1 | 895 |
+| 30d | 2026-10-25 | 4 | 46 | 2 | 2 | 0 | 44 |
+| last60d | 2026-09-25 | 7 | 104 | 2 | 4 | 0 | 250 |
+| 90d | 2026-08-26 | 9 | 137 | 2 | 5 | 0 | 282 |
+| last180d | 2026-05-28 | 19 | 201 | 2 | 13 | 0 | 423 |
+| 360d | 2025-11-29 | 42 | 231 | 2 | 49 | 1 | 727 |
+| last720d | 2024-12-04 | 42 | 231 | 2 | 49 | 1 | 896 |
 
 ## Release assets
 
@@ -71,13 +71,13 @@ Total: **44,888** lines of code across **70** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/xfr). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/xfr). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.15.0` | ✅ latest |
-| Nix unstable | `0.14.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.14.0` | ⚠️ outdated |
+| Nix unstable | `0.15.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.15.0` | ✅ latest |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:33:17Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:36:16Z._
