@@ -1,3 +1,15 @@
+- repo: pkgsrc_current
+  srcname: net/xfr
+  binname: xfr
+  visiblename: net/xfr
+  version: 0.14.1
+  origversion: null
+  status: outdated
+  summary: Modern network bandwidth testing with TUI
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
 - repo: alt_p11
   srcname: xfr
   binnames:
@@ -73,9 +85,9 @@
 - repo: nix_unstable
   srcname: xfr
   visiblename: xfr
-  version: 0.14.1
+  version: 0.15.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Modern iperf3 alternative with a live TUI, multi-client server, and QUIC support.
   maintainers:
     - mail-maintainer@0x4a6f.dev
@@ -91,9 +103,9 @@
     - xfr-debuginfo
     - xfr-debugsource
   visiblename: xfr
-  version: 0.14.0
-  origversion: 0.14.0-1.1
-  status: outdated
+  version: 0.15.0
+  origversion: 0.15.0-1.1
+  status: newest
   summary: Network bandwidth testing tool with TUI
   licenses:
     - Apache-2.0 OR MIT
@@ -116,18 +128,6 @@
   binname: xfr
   visiblename: net/xfr
   version: 0.10.1
-  origversion: null
-  status: outdated
-  summary: Modern network bandwidth testing with TUI
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - net
-- repo: pkgsrc_current
-  srcname: net/xfr
-  binname: xfr
-  visiblename: net/xfr
-  version: 0.14.1
   origversion: null
   status: outdated
   summary: Modern network bandwidth testing with TUI
