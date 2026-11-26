@@ -47,12 +47,12 @@ Total: **44,888** lines of code across **70** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 4 | 45 | 2 | 1 | 0 | 44 |
-| last60d | 2026-09-26 | 7 | 104 | 2 | 4 | 0 | 250 |
-| 90d | 2026-08-27 | 9 | 136 | 2 | 5 | 0 | 282 |
-| last180d | 2026-05-29 | 19 | 201 | 2 | 13 | 0 | 423 |
-| 360d | 2025-11-30 | 42 | 231 | 2 | 49 | 1 | 727 |
-| last720d | 2024-12-05 | 42 | 231 | 2 | 49 | 1 | 896 |
+| 30d | 2026-10-27 | 4 | 45 | 2 | 1 | 0 | 44 |
+| last60d | 2026-09-27 | 7 | 104 | 2 | 4 | 0 | 250 |
+| 90d | 2026-08-28 | 9 | 136 | 2 | 5 | 0 | 282 |
+| last180d | 2026-05-30 | 19 | 201 | 2 | 13 | 0 | 423 |
+| 360d | 2025-12-01 | 42 | 231 | 2 | 49 | 1 | 727 |
+| last720d | 2024-12-06 | 42 | 231 | 2 | 49 | 1 | 896 |
 
 ## Release assets
 
@@ -69,16 +69,6 @@ Total: **44,888** lines of code across **70** files in the top 5 languages.
 | [xfr-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/lance0/xfr/releases/download/v0.15.0/xfr-armv7-unknown-linux-musleabihf.tar.gz) | 4.3 MiB | `native/linux/arm/musl` |
 | [xfr-x86_64-unknown-linux-musl.tar.gz](https://github.com/lance0/xfr/releases/download/v0.15.0/xfr-x86_64-unknown-linux-musl.tar.gz) | 4.6 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/xfr). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.15.0` | ✅ latest |
-| Nix unstable | `0.15.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.15.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `xfr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +78,4 @@ Install metadata for xfr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:12:10Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:39:43Z._
